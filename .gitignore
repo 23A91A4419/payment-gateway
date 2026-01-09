@@ -1,14 +1,15 @@
+# Node
 node_modules/
-.env
-dist/
-build/
-coverage/
-.DS_Store
-src/
-public/
-package.json
 package-lock.json
-vite.config.js
-eslint.config.js
-index.html
-create_order.cjs
+
+# Env
+.env
+backend/.env
+
+# Build output
+dashboard/dist/
+checkout-page/dist/
+
+# OS
+.DS_Store
+*.mp4
