@@ -196,6 +196,8 @@ Screenshots of dashboard and checkout flow are available in `/docs`.
 
 ---
 
+Demo Video: ( https://www.youtube.com/watch?v=926VIW9ltqg )
+
 ## Submission Checklist
 
 - [x] Dockerized deployment (`docker-compose up -d`)
