@@ -1,4 +1,4 @@
-# 🎨 UI & Frontend Documentation
+#  UI & Frontend Documentation
 
 The frontend dashboard is built using **React** with **Pure Vanilla CSS** styling to match the reference design specifications.
 
